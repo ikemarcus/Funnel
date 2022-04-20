@@ -18,6 +18,27 @@ body{
   font-family: 'Nunito', sans-serif;
 }
 
+.container{
+  margin-left: 10px;
+}
+
+.toptext{
+  text-align: center;
+  background-color: #555;
+  color: white;
+  margin-right: 60px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  border: #222 solid 4px;
+}
+
+.title {
+  padding: 15px;
+  font-size: 20px;
+}
+
 header{
   background: #222;
   padding-top: 2%;
